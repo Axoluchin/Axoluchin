@@ -8,17 +8,17 @@ Me llamo Damián Hernández Huchín y soy desarrollador Frontend y Movil, para m
 Me gusta estar en constante aprendizaje 📖, hacer ejercicio 🏋️ y jugar videojuegos 🎮
 
 ## Skills:
-[![HTML](https://img.shields.io/badge/Html-999999?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![CSS](https://img.shields.io/badge/CSS-FA7343?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-1575F9?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![HTML](https://img.shields.io/badge/Html-ff8a31?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/CSS-30a6ff?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-f4df26?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 </br>
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-3DDC84?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
-[![ReactNative](https://img.shields.io/badge/ReactNative-0095D5?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
-[![React](https://img.shields.io/badge/React-3DDC84?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7914f7?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
+[![ReactNative](https://img.shields.io/badge/ReactNative-00d8ff?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/React-00d8ff?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 </br>
-[![Python](https://img.shields.io/badge/Python-232F3E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-538cbb?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-E66F00?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![Node.JS](https://img.shields.io/badge/Node.JS-549c45?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
