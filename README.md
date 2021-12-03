@@ -1,9 +1,9 @@
 # Bienvenido a mi GitHub 🚀
 
-Aquí encontraras todo (o casi todo) sobre proyectos que tengo, date una vuelta y llevate una sorpresa
+Aquí encontraras todo (o casi todo) sobre proyectos que tengo, date una vuelta y llévate una sorpresa
 
 ## Sobre mi 🤠
-Me llamo Damián Hernández Huchín y soy desarrollador Frontend y Movil, para mi la programación es como la magia pero del siglo XXI
+Me llamo Damián Hernández Huchín y soy desarrollador Frontend y Móvil, para mi la programación es como la magia pero del siglo XXI
 
 Me gusta estar en constante aprendizaje 📖, hacer ejercicio 🏋️ y jugar videojuegos 🎮
 
