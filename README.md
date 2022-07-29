@@ -1,6 +1,8 @@
 # Bienvenido a mi GitHub 🚀
 ![1500x500](https://user-images.githubusercontent.com/60200578/181684383-36938c28-5fa1-4b17-82f3-283749512df4.jpeg)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuchinDamian&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HuchinDamian&theme=github_dark)
 
 ## Sobre mi 🤠
 Me llamo Damián Hernández Huchín y soy desarrollador Frontend y Móvil, para mi la programación es como la magia pero del siglo XXI
@@ -17,7 +19,6 @@ Me gusta estar en constante aprendizaje 📖, hacer ejercicio 🏋️ y jugar vi
 [![Java](https://img.shields.io/badge/Java-E66F00?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-549c45?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-</br>
 
 ## Puedes encontrarme en:
 
@@ -26,18 +27,3 @@ Me gusta estar en constante aprendizaje 📖, hacer ejercicio 🏋️ y jugar vi
 [![Instagram](https://img.shields.io/badge/Instagram-@DamianHuchin-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/DamianHuchin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DamianHuchin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/damianhuchin/)
 [![Web](https://img.shields.io/badge/My_Website-Axoluchin-1f1f1f?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://axoluchin.herokuapp.com/)
-
-<!--
-**HuchinDamian/HuchinDamian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
