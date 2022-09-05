@@ -1,8 +1,8 @@
 # Bienvenido a mi GitHub 🚀
 ![1500x500](https://user-images.githubusercontent.com/60200578/181684383-36938c28-5fa1-4b17-82f3-283749512df4.jpeg)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuchinDamian&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HuchinDamian&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Axoluchin&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Axoluchin&theme=github_dark)
 
 ## Sobre mi 🤠
 Me llamo Damián Hernández Huchín y soy desarrollador Frontend y Móvil, para mi la programación es como la magia pero del siglo XXI
