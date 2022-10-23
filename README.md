@@ -4,6 +4,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Axoluchin&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Axoluchin&theme=github_dark)
 
+<a href="https://app.daily.dev/Axoluchin"><img src="https://api.daily.dev/devcards/6134f85790434f9197df7464995d43fa.png?r=n3t" width="400" alt="Damián Hernández Huchín's Dev Card"/></a>
+
 ## Sobre mi 🤠
 Me llamo Damián Hernández Huchín y soy desarrollador Frontend y Móvil, para mi la programación es como la magia pero del siglo XXI
 
