@@ -1,5 +1,5 @@
 # Bienvenido a mi GitHub 🚀
-![1500x500](https://user-images.githubusercontent.com/60200578/181684383-36938c28-5fa1-4b17-82f3-283749512df4.jpeg)
+![Link](https://github.com/user-attachments/assets/6f5ad2f9-61b4-4199-b356-8f8993fca7bf)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Axoluchin&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Axoluchin&theme=github_dark)
